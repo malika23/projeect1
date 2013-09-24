@@ -5,6 +5,6 @@
  * and open the template in the editor.
  */
 function hello(){
-echo "hello world";
+echo "Welcome";
 }
 ?>
